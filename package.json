@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Tari-Star/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.3.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {}
 }
